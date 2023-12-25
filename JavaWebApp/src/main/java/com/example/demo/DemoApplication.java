@@ -9,6 +9,6 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
-String name = "vamsi"
+String name = "vamsi";
 system.out.println(name);
 }
